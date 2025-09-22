@@ -484,7 +484,7 @@ header {
 /* (start) Banner image formatting ================================ */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url("../images/Homepage_image.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url("../images/Growth_cones_meeting.png");
   height: 100%;
 
   /* Position and center the image to scale nicely on all screens */
