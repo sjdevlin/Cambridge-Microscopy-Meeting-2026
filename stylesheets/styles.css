@@ -484,7 +484,7 @@ header {
 /* (start) Banner image formatting ================================ */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)), url("../images/CMM_Logo.jpg");
+  background-image: url("../images/CMM_Logo_blank.jpg");
   height: 100%;
 
   /* Position and center the image to scale nicely on all screens */
